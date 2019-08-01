@@ -51,7 +51,7 @@ Will be easy with Docker
 ## Built With
 
 * [React](https://reactjs.org/) - The front-end web framework used
-* [Go](https://golang.org/) - Dependency Management
+* [Go](https://golang.org/) - Language used for the backend
 * [Docker](https://www.docker.com/) - Used for build management 
 
 ## Authors
