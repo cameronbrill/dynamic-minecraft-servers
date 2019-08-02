@@ -64,6 +64,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to Trever Laher for making [the project](https://github.com/trevor-laher/OnDemandMinecraft) that instpired me
+* Hat tip to Trever Laher for making [the project](https://github.com/trevor-laher/OnDemandMinecraft) that inspired me
 * Thank you Notch, for helping create Minecraft
 * Thank you, Microsoft, for not ruining Minecraft after buying it :)
