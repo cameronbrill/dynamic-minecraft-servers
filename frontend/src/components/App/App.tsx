@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from '../../assets/images/logo.svg';
 import './App.css';
 
 const App: React.FC = () => {
@@ -8,15 +8,15 @@ const App: React.FC = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Dynamic Minecraft Servers.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="Minecraft Servers"
+          href="https://www.minecraft.net/en-us/download/server/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Download a Minecraft Server
         </a>
       </header>
     </div>
